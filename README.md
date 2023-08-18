@@ -5,6 +5,7 @@ Welcome to MshImportDL2
 
 INSTRUCTIONS:
 
+Rename the fixfile.txt to fixfile.fix
 1. Have your common_meshes_pc.rpack and your .msh created from DL1 devtools in the same folder as MshImportDL2.exe
 2. Run MshImportDL2
 3. Follow the on-screen instructions
